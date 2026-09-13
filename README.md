@@ -142,26 +142,27 @@ CARDIOVASCULAR-DISEASE-PREDICTION/
 ├── Dataset/
 │   └── cardio_train.csv
 │
-├── Python Code/
-│   ├── 01_data_analysis.py
-│   ├── 02_preprocessing.py
-│   ├── 03_visualization.py
-│   └── 04_model_training.py
-│
 ├── Output/
 │   ├── Plots/
 │   ├── cardio_cleaned.csv
 │   ├── final_confusion_matrix.png
 │   └── final_decision_tree_model.pkl
 │
-├── Report/
-│   └── Cardiovascular_Disease_Final_Report.docx
-│
 ├── PPT/
 │   └── Cardiovascular_Disease_Presentation.pptx
 │
+├── Python Code/
+│   ├── 01_data_analysis.py
+│   ├── 02_preprocessing.py
+│   ├── 03_visualization.py
+│   └── 04_model_training.py
+│
+├── Report/
+│   └── Cardiovascular_Disease_Final_Report.docx
+
+│
 ├── README.md
-└── requirements.txt
+├── requirements.txt
 ```
 
 ## Technologies Used
